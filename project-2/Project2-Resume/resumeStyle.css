@@ -1,0 +1,109 @@
+body{
+  background-image: url("Img/corrr.jpg");
+  background-color: rgba(253, 253, 23, 0.808);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center; 
+  padding-right: 200px; 
+  padding-left: 200px; 
+  font-size: 15px;
+
+}
+h1{
+  text-transform: capitalize;
+  font-family:'Sofia'; font-size: 80px;
+}
+
+#hd {
+    text-align: center;
+    padding: 50px;
+    background-color:purple;
+    opacity: 0.8;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+}
+
+#ft {
+    text-align: center;
+    padding: 10px;
+    background-color:rgb(15, 252, 15);
+    opacity: 0.8;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+}
+#lnav {
+    position: fixed;
+    top: 60px; 
+    left: 20px; 
+    width: 150px;
+    height: 200px; 
+    padding: 10px;
+    background-color: yellow;
+    opacity: 0.8;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+#rnav {
+    position: fixed; 
+    top: 60px;
+    right: 20px;
+    width: 220px;
+    height: 200px; 
+    padding: 10px;
+    background-color: yellow;
+    opacity: 0.8;
+    border-radius: 10px;
+    z-index: 1; 
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.hlist {
+margin 0px
+margin 0px
+
+}
+    <style>
+        .hList {
+            text-align: center; 
+            position: relative; 
+            background-color: #f0f0f0; 
+            font-family: Arial, sans-serif; 
+            color: #333; 
+        }
+        .hList ul {
+            margin: 0px; 
+            padding: 0;
+        }
+        
+        .hList li {
+            display: inline; 
+            margin: 0 10px;
+            padding: 0; 
+        }
+        
+        .hList li a {
+            color: #333; 
+            text-decoration: none;
+        }
+  
+        .hList li a:hover {
+            text-decoration: underline; 
+        }
+    </style>
+
